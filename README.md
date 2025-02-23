@@ -24,8 +24,3 @@
 
 ---
 
-## Installation
-
-1. Clonez le dépôt GitHub :
-   ```bash
-   git clone https://github.com/Ayoub-Mekhfioui/Gestionnaire-de-Produits.git
